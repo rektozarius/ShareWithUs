@@ -5,12 +5,12 @@
 
 This is the final project for the HackYourFuture curriculum we did as a cohort using the [MERN stack](https://www.mongodb.com/resources/languages/mern-stack) by following the agile methodology with our team and a group of mentors. A quick guide to what we built:
 
-
 ### 📝 Description
 
 ShareWhitUs is a full-stack web application that helps users to borrow and lend items within their community. Users can register, log in, add items, search, filter by category, and borrow items.
 
 Main features:
+
 - Login & Registration
 - Browse and filter items
 - Add and edit your own items
@@ -18,7 +18,6 @@ Main features:
 - Leave reviews with rating
 - Contact item owners
 - Cloud image uploads using Cloudinary
-
 
 ### 📦 Tech Stack
 
@@ -28,7 +27,7 @@ Main features:
 - **Image Upload:** Cloudinary
 - **Authentication:** Token-based (JWT)
 
-[Click here for the Demo version](https://hyf-c51-grou-feature-re-4kuggz.herokuapp.com/)
+[Click here for the Demo version](https://sharewithus-vned.onrender.com/)
 
 ## 1. Setup
 
